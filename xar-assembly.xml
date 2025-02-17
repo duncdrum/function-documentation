@@ -17,6 +17,12 @@
   <dependency package="http://exist-db.org/html-templating" semver-min="${templating.version}"/>
   <prepare>pre-install.xql</prepare>
   <changelog>
+      <change version="1.2.2">
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+        <li>Add Community Specs <a href="https://github.com/eXist-db/function-documentation/pull/67">#67</a> by @duncdrum</li>
+        <li>Drop Jquery upgrade frontend deps <a href="https://github.com/eXist-db/function-documentation/pull/67">#67</a></li>
+      </ul>
+    </change>
     <change version="1.2.1">
       <ul xmlns="http://www.w3.org/1999/xhtml">
         <li>Added article for file:sync#3 - <a href="https://github.com/eXist-db/function-documentation/pull/54">#54</a></li>
