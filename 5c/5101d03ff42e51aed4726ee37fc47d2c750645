@@ -1,0 +1,24 @@
+src/test/cypress/plugins/index.js
+  s_f638d276acae6a::t_4a32f8b7c640e2 14
+cypress.config.js
+  s_f638d276acae6a::t_7f69b7c0f33b3a 1-2,4,10,12-13,18-19
+  s_f638d276acae6a::t_6a12a761e5ab98 5
+.gitignore
+  s_f638d276acae6a::t_c04ad777feb64f 14-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "5c5101d03ff42e51aed4726ee37fc47d2c750645",
+  "prompts": {},
+  "sessions": {
+    "s_f638d276acae6a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "330fe96d-82e7-41ea-95ad-ae8738b80dec",
+        "model": "default"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
